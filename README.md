@@ -1,5 +1,5 @@
 # maze_solver
-This is an arduino based algorithm code which allows the bot to autonomously take decisions and solve the maze traced by a black line:
+This is an arduino IDE based code which allows the bot to autonomously take decisions and solve the maze traced by a black line:
 right hand wall maze solving algorithm
 In this algorithm priorities are set when the bot encounters a right joint() The priorities are as follows: If 'T' joint witha right turn is present then it goes straight If 'T' joint witha left turn is present then it takes a left turn finally if it is a dead end it takes a 'U' turn
 
