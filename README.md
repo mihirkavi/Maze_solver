@@ -1,2 +1,13 @@
-# maze_follower
-This is an arduino based algorithm code which allows the bot to autonomously take decisions and solve the maze traced by a black line
+# Advanced-Line-follower
+Advanced line follower bot with PID controller
+
+## Tools used
+* Arduino Uno
+* IR sensor array (IR LED with photo diode)
+* Acrylic sheet to construct the bot structure
+
+## External libraries 
+* [EnableInterrupt] (https://github.com/GreyGnome/EnableInterrupt)
+
+## Video
+* [Watch on youtube](https://www.youtube.com/embed/vTM6DuuMUrA)
